@@ -41,7 +41,7 @@ A comprehensive platform for managing prenatal care appointments with obstetrici
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/appointment-booking-system.git
+   git clone https://github.com/NalagamdinniRaju/Appointment-Booking-System.git
    cd appointment-booking-system
    ```
 
